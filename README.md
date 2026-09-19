@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bhuvan%20A%20S&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Generative%20AI&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/header.svg" width="100%" alt="Bhuvan A S Header Banner" />
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/bhuvanas-22">
@@ -219,6 +219,6 @@ class BhuvanAS:
 
   <br/><br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
