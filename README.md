@@ -1,111 +1,121 @@
 <!--
   GitHub Profile README for @bhuvanas-22
-  Sleek, minimal, automated, and styled for Bhuvan A S
+  Repo: github.com/bhuvanas-22/bhuvanas-22
 -->
 
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/header.svg" width="100%" alt="Bhuvan A S Header Banner" />
+<!-- ===== Header banner ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Bhuvan%20A%20S&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Generative%20AI&descAlignY=60&descSize=18" width="100%" />
 
-  <!-- Typing SVG Animation -->
-  <a href="https://github.com/bhuvanas-22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&height=50&duration=3500&color=2C5364&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%26+LLM+Specialist;Full+Stack+Python+Developer;Building+Intelligent+AI-Powered+Systems" alt="Typing SVG" />
-  </a>
+<!-- ===== Typing animation ===== -->
+<a href="https://github.com/bhuvanas-22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&duration=3500&color=2C5364&lines=AI+%26+ML+Engineer;Generative+AI+Enthusiast;Full+Stack+Developer;Building+AI-Powered+Solutions" alt="Typing SVG" />
+</a>
 
-  <!-- Social Badges & Profile Views -->
-  <p align="center">
-    <a href="https://linkedin.com/in/bhuvan-a-s-54887b259" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:asbhuvan586@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/bhuvanas-22">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=bhuvanas-22&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
+<!-- ===== Quick links ===== -->
+<p>
+  <a href="https://linkedin.com/in/bhuvan-a-s-54887b259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:asbhuvan586@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/bhuvanas-22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bhuvanas-22&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 </div>
 
 ---
 
-### 🪐 Repo Solar System
+## 👋 About Me
+
+```python
+class BhuvanAS:
+    def __init__(self):
+        self.code        = ["Python", "Java", "SQL"]
+        self.focus       = ["Artificial Intelligence", "Machine Learning", "Generative AI"]
+        self.currently   = "Building AI-powered software solutions"
+        self.motto       = "Learn. Build. Innovate. 🚀"
+        self.fun_fact    = "Turning complex data into intelligent solutions ✨"
+```
+
+- 🔭 Currently building an **AI-powered Support Ticket Analytics platform** (TicketAnalytics AI) leveraging FastAPI, Streamlit, Pandas & Ollama.
+- 🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning**.
+- 🧠 Deeply focused on **Generative AI, LLMs, RAG, and Agentic Workflows** (LangChain & LangGraph).
+- 🌐 Actively **building scalable software systems** and contributing to open-source software.
+
+---
+
+## ⚛️ Tech Orbit
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/repo-solar-system.svg" width="100%" alt="Repo Solar System of Bhuvan A S" />
+
+<img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/tech-orbit.svg" width="540" alt="Animated orbit of my full tech stack" />
+
 </div>
 
 ---
 
-### 📈 GitHub Stats
+## 🪐 Repo Solar System
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/bhuvanas-22">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=bhuvanas-22&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true&include_all_commits=true" alt="Bhuvan's GitHub Stats" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/bhuvanas-22">
-          <img src="https://streak-stats.demolab.com?user=bhuvanas-22&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="middle">
-        <a href="https://github.com/bhuvanas-22">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=bhuvanas-22&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/repo-solar-system.svg" width="850" alt="Repo solar system of Bhuvan A S" />
+
 </div>
 
 ---
 
-### 💬 Dev Quote
+## 📈 GitHub Stats
 
-> *“All repairs tend to destroy structure, to increase the entropy and disorder of a system.”*  
-> — **Fred Brooks**
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvanas-22&theme=github_dark" width="100%" alt="Profile details" />
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvanas-22&theme=github_dark" alt="Top languages by repo" />
+    </td>
+    <td align="center">
+      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvanas-22&theme=github_dark" alt="Top languages by commits" />
+    </td>
+    <td align="center">
+      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvanas-22&theme=github_dark" alt="Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanas-22&hide_border=true&ring=2C5364&fire=2C5364&currStreakLabel=2C5364&background=00000000" alt="GitHub Streak" />
+
+<br/>
+
+</div>
 
 ---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🐍 Watch my contributions get eaten
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake.svg">
-    <img alt="Bhuvan's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake.svg">
+  <img alt="Bhuvan's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
----
-
-### 🤝 Let's Connect!
-
-<div align="center">
-
-  <p>Open for discussions, collaborations, and opportunities in AI/ML &amp; Software Engineering.</p>
-
-  <a href="https://linkedin.com/in/bhuvan-a-s-54887b259" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:asbhuvan586@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asbhuvan586%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bhuvanas-22">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20%40bhuvanas--22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br/><br/>
-  
-  <img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/footer.svg" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>
