@@ -38,8 +38,7 @@ class BhuvanAS:
         self.fun_fact    = "Turning complex data into intelligent solutions ✨"
 ```
 
-- 🔭 Currently building an **AI-powered Support Ticket Analytics platform** (TicketAnalytics AI) leveraging FastAPI, Streamlit, Pandas & Ollama.
-- 🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning**.
+- 🎓 Graduate **B.E. in Artificial Intelligence & Machine Learning**.
 - 🧠 Deeply focused on **Generative AI, LLMs, RAG, and Agentic Workflows** (LangChain & LangGraph).
 - 🌐 Actively **building scalable software solutions** and contributing to open-source software.
 
