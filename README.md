@@ -31,7 +31,7 @@
 ```python
 class BhuvanAS:
     def __init__(self):
-        self.code        = ["Python", "Java", "SQL"]
+        self.code        = ["Python", "Java", "SQL", "C"]
         self.focus       = ["Artificial Intelligence", "Machine Learning", "Generative AI"]
         self.currently   = "Building AI-powered software solutions"
         self.motto       = "Learn. Build. Innovate. 🚀"
