@@ -1,6 +1,7 @@
 <!--
   GitHub Profile README for @bhuvanas-22
   Repo: github.com/bhuvanas-22/bhuvanas-22
+  Tip: This file renders on your GitHub profile page.
 -->
 
 <div align="center">
@@ -10,7 +11,7 @@
 
 <!-- ===== Typing animation ===== -->
 <a href="https://github.com/bhuvanas-22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&duration=3500&color=2C5364&lines=AI+%26+ML+Engineer;Generative+AI+Enthusiast;Full+Stack+Developer;Building+AI-Powered+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&duration=3500&color=2C5364&lines=AI+%26+ML+Engineer;Generative+AI+Enthusiast;Python+Developer;Building+AI-Powered+Solutions" alt="Typing SVG" />
 </a>
 
 <!-- ===== Quick links ===== -->
@@ -40,7 +41,7 @@ class BhuvanAS:
 - 🔭 Currently building an **AI-powered Support Ticket Analytics platform** (TicketAnalytics AI) leveraging FastAPI, Streamlit, Pandas & Ollama.
 - 🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning**.
 - 🧠 Deeply focused on **Generative AI, LLMs, RAG, and Agentic Workflows** (LangChain & LangGraph).
-- 🌐 Actively **building scalable software systems** and contributing to open-source software.
+- 🌐 Actively **building scalable software solutions** and contributing to open-source software.
 
 ---
 
@@ -48,17 +49,7 @@ class BhuvanAS:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/tech-orbit.svg" width="540" alt="Animated orbit of my full tech stack" />
-
-</div>
-
----
-
-## 🪐 Repo Solar System
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/main/assets/repo-solar-system.svg" width="850" alt="Repo solar system of Bhuvan A S" />
+<img src="assets/tech-orbit.svg" width="540" alt="Animated orbit of my full tech stack" />
 
 </div>
 
@@ -70,21 +61,10 @@ class BhuvanAS:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvanas-22&theme=github_dark" width="100%" alt="Profile details" />
 
-<br/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvanas-22&theme=github_dark" alt="Top languages by repo" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvanas-22&theme=github_dark" alt="Top languages by commits" />
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvanas-22&theme=github_dark" alt="Top languages by repo" />
-    </td>
-    <td align="center">
-      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvanas-22&theme=github_dark" alt="Top languages by commits" />
-    </td>
-    <td align="center">
-      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvanas-22&theme=github_dark" alt="Stats" />
-    </td>
-  </tr>
-</table>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvanas-22&theme=github_dark" alt="Stats" />
 
 <br/>
 
@@ -110,11 +90,7 @@ class BhuvanAS:
 
 ### 🐍 Watch my contributions get eaten
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake.svg">
-  <img alt="Bhuvan's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/bhuvanas-22/bhuvanas-22/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
